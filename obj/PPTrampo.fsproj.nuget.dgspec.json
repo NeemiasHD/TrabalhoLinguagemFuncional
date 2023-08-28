@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj": {}
+    "C:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj": {}
   },
   "projects": {
-    "c:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj": {
+    "C:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj",
+        "projectUniqueName": "C:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj",
         "projectName": "PPTrampo",
-        "projectPath": "c:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj",
+        "projectPath": "C:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj",
         "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\obj\\",
+        "outputPath": "C:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config",

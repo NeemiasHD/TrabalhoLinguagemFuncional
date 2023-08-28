@@ -30,8 +30,8 @@ body {
   background-color: #ffffff;
   background-image: url("/img/background.png");
   background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   zoom: 90%;
 }
 
@@ -132,32 +132,38 @@ header {
 }
 
 
-a{
-  display:flex;
+a {
+  display: flex;
   align-items: center;
   padding-left: 15px;
   padding-right: 15px;
 }
+
 .logoHeader {
   display: flex;
 }
-a:hover{
+
+a:hover {
   color: #ffffff;
 
 }
+
 .homeButton {
   border-radius: 20px;
   background-color: var(--roxo);
 }
-.bx.bxs-moon{
+
+.bx.bxs-moon {
   padding: 0;
   font-size: 40px;
 }
 
-.Creditos, .sobre{
+.Creditos,
+.sobre {
   position: relative;
   padding: 0;
 }
+
 .Creditos::before,
 .sobre::before {
   position: absolute;
@@ -171,7 +177,9 @@ a:hover{
 
 
 }
-.Creditos:hover:before,.sobre:hover:before{
+
+.Creditos:hover:before,
+.sobre:hover:before {
   transform: scaleX(1);
 
 

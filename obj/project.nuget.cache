@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Et59muxFnaNiBFjQSAPJN1OYyBEt9dXmZME72WN+DTWC9VTqm99LA9pVDfydMJrgQPw8VXlPJjBwc9YwOWE8Cg==",
+  "dgSpecHash": "THHbppg3PRJsvaRBqn2ymUMSEjG6pBUDqfV7jeY81SVc0PHZ0LvtveOT+2aqUj1ZE68NeeWsMnmK1ZhTJeexuA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj",
+  "projectFilePath": "C:\\Users\\roger\\Desktop\\FACULDADE\\F#\\PPTrampo\\PPTrampo\\PPTrampo.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\roger\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512",
     "C:\\Users\\roger\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.10\\microsoft.aspnetcore.mvc.razor.extensions.6.0.10.nupkg.sha512",

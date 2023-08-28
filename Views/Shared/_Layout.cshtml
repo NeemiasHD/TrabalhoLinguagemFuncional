@@ -20,39 +20,7 @@
  
         <div class="NavButton">
             <a href="#" onclick="modoescuro()"><i class='bx bxs-moon'></i></a>
-            <script>
-
-                var cordefundo = localStorage.getItem("cordefundo");//definindo um local Storage pra manter o tema escuro/claro dependendo da escolha
-                if(cordefundo==null || cordefundo==0){
-
-                    
-                        document.querySelector(".body").style.backgroundColor = "#fff"
-                        cordefundo = 0
-
-                }
-                else{
-                    document.querySelector(".body").style.backgroundColor = "#000"
-                        cordefundo = 1
-
-                }
-
-                    
-
-                function modoescuro(){
-                    if(cordefundo==0){
-
-                    
-                        document.querySelector(".body").style.backgroundColor = "#000"
-                        cordefundo = 1
-                    }
-                    else
-                    {
-                        document.querySelector(".body").style.backgroundColor = "#fff"
-                        cordefundo = 0
-                    }
-                    localStorage.setItem("cordefundo",cordefundo);
-                }
-            </script>
+            
 
             <a asp-area="" asp-controller="Home" asp-action="sobre" class="sobre">Sobre</a>
             <a asp-area="" asp-controller="Home" asp-action="Creditos" class="Creditos">Créditos</a>
